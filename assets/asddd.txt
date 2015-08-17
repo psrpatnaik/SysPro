@@ -1,0 +1,2 @@
+1@Storage mapping is done____a)Operating System  @ b)  Compiler @ c) Linker@ d) Loader @4
+2 @Address  assigned by the loader to symbol is called    @a)  Load origin	@b) Load time address  @c) Translated origin	  @d) Translated time origin @2
